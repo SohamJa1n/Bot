@@ -42,4 +42,4 @@ async def on_message(message):
                 await message.channel.send("Soham")
         
 
-client.run("MTAwMjQ5NDUyNjM5NDQ4NjgxNA.GUwNMG.AGFkYRlFWSibHTf6PQluEBjVea1ZhqETL-q6HQ")
+client.run("MTAwMjQ5NDUyNjM5NDQ4NjgxNA.G692ks.UgOr8rflHneho83C296H2C3smHLh2GKG6lFmF0")
