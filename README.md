@@ -4,7 +4,8 @@ Features
 - Look at the time
 - Timer
 - Inspirational Quote
+- Stocks Viewing
 
 Upcoming:
-- Stocks Viewing
+- Automation using async functions
 
