@@ -4,6 +4,6 @@ Features
 - Look at the time
 - Timer
 - Inspirational Quote
-Upcoming:
+- Upcoming:
 - Stocks Viewing
 - 
